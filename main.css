@@ -2,7 +2,7 @@ body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
-	background-color: black;
+	background-color: #444444;
 }
 
 h1 {
@@ -15,8 +15,22 @@ h1 {
   background-color: #111111;
 }
 
-.video {
-	margin: 100px;
+.menu {
+	width: 300px;
+	background-color: grey;
+}
+
+.menu li {
+	display: inline;
+	padding: 20px;
+}
+
+.gallary {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.gallary li {
 	border: 10px solid white;
-	align-self: flex-end;
 }
