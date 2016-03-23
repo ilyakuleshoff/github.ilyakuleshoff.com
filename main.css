@@ -13,3 +13,7 @@ h1 {
   margin: 10px;
   background-color: #111111;
 }
+
+.video {
+	align-self: center;
+}
