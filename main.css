@@ -34,3 +34,9 @@ h1 {
 .gallary li {
 	border: 10px solid white;
 }
+
+.fullscreenblock {
+	background: #666666;
+	width: 100%;
+	height: 100vh;
+}
